@@ -1,5 +1,10 @@
 # Customer Decision Dashboard – Adoption & Effectiveness (Power BI)
 
+### 🔍 Dashboard Preview (GIF)
+
+![Dashboard Preview](assets/dashboard_preview.gif)
+
+
 
 ## DESCRIPTION / DESCRIPCIÓN
 
