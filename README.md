@@ -130,8 +130,12 @@ Total de ubicaciones: **50 IDs únicos** (en distintas ciudades de Perú)
 
 # DASHBOARD & IMAGES / PANEL & CAPTURAS
 
-[![Download PBIX](https://img.shields.io/badge/Download_PBIX_File-FFB900?style=for-the-badge&logo=power-bi&logoColor=white)](/pbix/CIBC_CDD_Analysis.pbix)
+## 📂 Power BI File / Archivo Power BI
 
+🔹 **EN:** Download the full Power BI dashboard (.pbix)  
+🔹 **ES:** Descarga el archivo completo de Power BI (.pbix)
+
+[⬇️ Download PBIX](/pbix/CIBC_CDD_Analysis.pbix)
 
 ---
 
