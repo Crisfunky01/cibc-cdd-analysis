@@ -4,6 +4,10 @@
 
 ![Dashboard Preview](assets/dashboard_preview.gif)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![Bilingual](https://img.shields.io/badge/EN%20%26%20ES-Bilingual-blue)
+![Last Commit](https://img.shields.io/github/last-commit/Crisfunky01/cibc-cdd-analysis)
+![Repo Size](https://img.shields.io/github/repo-size/Crisfunky01/cibc-cdd-analysis)
 
 
 ## DESCRIPTION / DESCRIPCIÓN
@@ -229,3 +233,38 @@ El panel está organizado en 4 secciones:
 #### 💡 Conclusión para el negocio
 - La mayor pérdida de desempeño se debe a problemas **asociados al uso de VISA** y **errores regionales**.
 - Mejoras focalizadas en el servicio asociado a VISA y en los puntos con fallo crítico podrían recuperar entre **12% y 15% de rendimiento**.
+
+
+## 🚀 Future Improvements / Próximas mejoras
+
+### EN — Future Improvements  
+🔧 **Extend time period:** Add more months of data to enable trend analysis and seasonality insights.  
+📊 **Drill-through pages:** Allow users to drill from summary KPIs into transaction-level details.  
+📈 **Time series visuals:** Include YoY / MoM performance comparisons and forecasting.  
+🔁 **Data refresh automation:** Connect source data to a live SQL source and publish in Power BI Service with scheduled refresh.  
+🌍 **Country comparison:** Add dashboards for other regions (e.g., Chile, Colombia) to enable cross-market performance benchmarking.  
+🤖 **Predictive analytics:** Train a classification model to predict transaction success or failure, reducing ER loss preemptively.
+
+---
+
+### ES — Próximas mejoras  
+🔧 **Ampliar el período temporal:** Incorporar más meses de datos para habilitar análisis de tendencia y estacionalidad.  
+📊 **Páginas de detalle (drill-through):** Permitir al usuario profundizar desde KPIs hasta el nivel transaccional.  
+📈 **Visuales de series temporales:** Incluir comparaciones interanuales (YoY) y mensuales (MoM), así como pronósticos.  
+🔁 **Automatización del refresco de datos:** Conectar los datos a una base SQL y publicar en Power BI Service con actualización programada.  
+🌍 **Comparación entre países:** Agregar dashboards de otros mercados (ej: Chile, Colombia) para análisis comparativo.  
+🤖 **Analítica predictiva:** Entrenar un modelo de clasificación que prediga éxito fallas de transacciones, reduciendo la pérdida de ER de forma anticipada.
+
+
+## 📄 License
+
+This project is licensed under the MIT License — free to use, modify, and distribute.
+
+
+## 👨‍💻 About the Author / Sobre el Autor
+
+**Cristian Salinas** — Industrial Engineer & Data Analyst  
+🔗 LinkedIn: https://www.linkedin.com/in/ingcrissalinas/  
+🌐 Portfolio: https://www.ingsalinas.com/  
+📂 GitHub: https://github.com/Crisfunky01
+
