@@ -165,7 +165,7 @@ El panel está organizado en 4 secciones:
 4. **Mapa — rendimiento por provincia**
 
 #### AR – Noviembre
-![AR Noviembre](./assets/AR_Nov.png)
+![AR November](assets/ar_nov.png)
 
 #### AR – Diciembre
 ![AR Diciembre](./assets/AR_Dec.png)
