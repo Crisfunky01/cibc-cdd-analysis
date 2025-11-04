@@ -127,7 +127,8 @@ Total de ubicaciones: **50 IDs únicos** (en distintas ciudades de Perú)
   - **ER:** ~80% (noviembre) y ~75% (diciembre)
 - El rendimiento real estuvo por debajo del objetivo — fue necesario analizar la causa raíz.
 
-# DASHBOARD & IMAGES / PANEL & CAPTURAS  
+
+# DASHBOARD & IMAGES / PANEL & CAPTURAS
 
 ---
 
@@ -138,40 +139,7 @@ The dashboard is organized across 4 pages:
 1. **Adoption Rate (AR)** — November & December  
 2. **Effective Rate (ER)** — November & December  
 3. **Errors & Root Cause by Location**  
-4. **Province Map — Performance by Region**
-
----
-
-### AR – November  
-![AR November](assets/ar_nov.png)
-
-### AR – November (Part 2)  
-![AR November Part 2](assets/ar_nov_part2.png)
-
-### AR – December  
-![AR December](assets/ar_dec.png)
-
-### AR – December (Part 2)  
-![AR December Part 2](assets/ar_dec_part2.png)
-
----
-
-### ER – November  
-![ER November](assets/er_nov.png)
-
-### ER – November (Part 2)  
-![ER November Part 2](assets/er_nov_part2.png)
-
-### ER – December  
-![ER December](assets/er_dec.png)
-
-### ER – December (Part 2)  
-![ER December Part 2](assets/er_dec_part2.png)
-
----
-
-### Location-level error breakdown  
-![Error Codes by Province](assets/er_dec_part2.png)
+4. **Province Map — Performance by Region**  
 
 ---
 
@@ -179,43 +147,31 @@ The dashboard is organized across 4 pages:
 
 El panel está organizado en 4 secciones:
 
-1. **Tasa de Adopción (AR)** — Noviembre & Diciembre  
-2. **Tasa de Efectividad (ER)** — Noviembre & Diciembre  
-3. **Errores y Causa Raíz por Ubicación**  
-4. **Mapa por Provincia — Desempeño Regional**
+1. **Tasa de Adopción (AR)** — Noviembre y Diciembre  
+2. **Tasa de Efectividad (ER)** — Noviembre y Diciembre  
+3. **Errores y Causas Raíz por Ubicación**  
+4. **Mapa de Provincias — Desempeño por Región**  
 
 ---
 
-### AR – Noviembre  
-![AR Noviembre](assets/ar_nov.png)
+## 📊 Dashboard Images / Capturas del Panel
 
-### AR – Noviembre (Parte 2)  
-![AR Noviembre Parte 2](assets/ar_nov_part2.png)
+### AR — November  
+![AR Nov Part 1](assets/ar_nov.png)  
+![AR Nov Part 2](assets/ar_nov_part2.png)
 
-### AR – Diciembre  
-![AR Diciembre](assets/ar_dec.png)
+### AR — December  
+![AR Dec Part 1](assets/ar_dec.png)  
+![AR Dec Part 2](assets/ar_dec_part2.png)
 
-### AR – Diciembre (Parte 2)  
-![AR Diciembre Parte 2](assets/ar_dec_part2.png)
+### ER — November  
+![ER Nov Part 1](assets/er_nov.png)  
+![ER Nov Part 2](assets/er_nov_part2.png)
 
----
+### ER — December  
+![ER Dec Part 1](assets/er_dec.png)  
+![ER Dec Part 2](assets/er_dec_part2.png)
 
-### ER – Noviembre  
-![ER Noviembre](assets/er_nov.png)
-
-### ER – Noviembre (Parte 2)  
-![ER Noviembre Parte 2](assets/er_nov_part2.png)
-
-### ER – Diciembre  
-![ER Diciembre](assets/er_dec.png)
-
-### ER – Diciembre (Parte 2)  
-![ER Diciembre Parte 2](assets/er_dec_part2.png)
-
----
-
-### Desglose de errores por ubicación  
-![Códigos de Error por Provincia](assets/er_dec_part2.png)
 
 
 ## INSIGHTS / ROOT CAUSE ANALYSIS
