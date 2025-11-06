@@ -261,7 +261,7 @@ El panel está organizado en 4 secciones:
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
 
-## 👨‍💻 About the Author / Sobre el Autor
+## 👨‍💻 About the Author / Sobre el Autor.
 
 **Cristian Salinas** — Industrial Engineer & Data Analyst  
 🔗 LinkedIn: https://www.linkedin.com/in/ingcrissalinas/  
